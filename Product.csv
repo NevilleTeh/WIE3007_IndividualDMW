@@ -1,0 +1,16 @@
+ProductID,AlbumTitle,ArtistBand,Genre,Format,ProductionYear,Language
+P0001,Echoes of the Future,FutureSound Collective,Electronic,Vinyl,2020,English
+P0002,Lost in Time,The Timekeepers,Rock,CD,2019,English
+P0003,Harmony of the World,Classical Masters,Classical,Cassette,2018,Instrumental
+P0004,Eternal Sounds,Jazz Enigma,Jazz,Vinyl,2021,English
+P0005,Rhythmic Odyssey,Rhythmic Force,Hip-Hop,CD,2019,English
+P0006,Celestial Melodies,World Harmony,World,Cassette,2017,Multiple
+P0007,Echoes of the Future,FutureSound Collective,Electronic,Vinyl,2020,English
+P0008,Retro Waves,Retro Popsters,Pop,CD,2018,English
+P0009,Modern Echoes,Electro Vibe,Electronic,Cassette,2022,English
+P0010,Timeless Tunes,Country Roads,Country,Vinyl,2021,English
+P0011,Harmony of the World,Classical Masters,Classical,CD,2018,Instrumental
+P0012,Classical Reverie,Serene Classics,Classical,Cassette,2017,Instrumental
+P0013,Pop Anthems,Pop United,Pop,Vinyl,2020,English
+P0014,Eternal Sounds,Jazz Enigma,Jazz,CD,2021,English
+P0015,Sonic Journey,Rock Pioneers,Rock,Cassette,2019,English

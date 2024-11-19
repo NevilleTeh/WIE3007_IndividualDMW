@@ -1,0 +1,16 @@
+DeliveryID,DeliveryType,Courier,DeliveryMethod
+D0001,Standard,Royal Mail,Pickup Point
+D0002,Express,DHL,Self-Collect
+D0003,Express,Royal Mail,Door-to-Door
+D0004,Express,FedEx,Local Post Office
+D0005,Overnight,Pos Malaysia,Pickup Point
+D0006,Overnight,Royal Mail,Self-Collect
+D0007,Express,DHL,Self-Collect
+D0008,Standard,Royal Mail,Pickup Point
+D0009,Standard,Pos Malaysia,Local Post Office
+D0010,Standard,Pos Malaysia,Pickup Point
+D0011,Standard,FedEx,Self-Collect
+D0012,Overnight,DHL,Self-Collect
+D0013,Standard,FedEx,Local Post Office
+D0014,Standard,Pos Malaysia,Self-Collect
+D0015,Express,FedEx,Local Post Office

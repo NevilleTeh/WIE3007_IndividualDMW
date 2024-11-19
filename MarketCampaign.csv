@@ -1,0 +1,6 @@
+CampaignID,CampaignType,TargetAudience,Channel
+M0001,Cashback,New Customer,In-App
+M0002,Discount,Frequent Buyers,Email
+M0003,Discount,New Customer,Social Media
+M0004,Cashback,New Customer,Social Media
+M0005,Cashback,New Customer,Email

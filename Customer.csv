@@ -1,0 +1,21 @@
+CustomerID,AgeGroup,Gender,ZipCode,City,State,Country
+C0001,45-54,Female,50480,Kuala Lumpur,Wilayah Persekutuan,Malaysia
+C0002,55-64,Male,75000,Paris,Île-de-France,France
+C0003,65+,Female,10001,New York,New York,USA
+C0004,55-64,Male,50480,Kuala Lumpur,Wilayah Persekutuan,Malaysia
+C0005,18-24,Female,W1D,London,England,UK
+C0006,18-24,Female,10001,New York,New York,USA
+C0007,25-34,Female,560001,Bangalore,Karnataka,India
+C0008,55-64,Male,560001,Bangalore,Karnataka,India
+C0009,45-54,Female,10001,New York,New York,USA
+C0010,55-64,Male,W1D,London,England,UK
+C0011,55-64,Female,75000,Paris,Île-de-France,France
+C0012,35-44,Female,50480,Kuala Lumpur,Wilayah Persekutuan,Malaysia
+C0013,25-34,Male,50480,Kuala Lumpur,Wilayah Persekutuan,Malaysia
+C0014,35-44,Male,560001,Bangalore,Karnataka,India
+C0015,55-64,Female,10001,New York,New York,USA
+C0016,18-24,Male,560001,Bangalore,Karnataka,India
+C0017,18-24,Female,50480,Kuala Lumpur,Wilayah Persekutuan,Malaysia
+C0018,18-24,Female,75000,Paris,Île-de-France,France
+C0019,55-64,Female,560001,Bangalore,Karnataka,India
+C0020,65+,Male,50480,Kuala Lumpur,Wilayah Persekutuan,Malaysia
